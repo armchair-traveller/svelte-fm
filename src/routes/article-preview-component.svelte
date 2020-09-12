@@ -58,6 +58,7 @@
     height: 200px;
     object-fit: cover;
     border-radius: 0.6rem 0.6rem 0 0;
+    filter: brightness(1.03);
   }
 
   .content {
