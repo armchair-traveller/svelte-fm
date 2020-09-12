@@ -59,6 +59,7 @@
 
   h2 {
     font-size: 1rem;
+    line-height: 1.5rem;
   }
   h2,
   p {
@@ -69,6 +70,53 @@
     color: var(--blue-300);
     line-height: 1.3rem;
     letter-spacing: 0.015rem;
+  }
+
+  .bottom {
+    display: flex;
+    flex-flow: row nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .bottom img {
+    border-radius: 50%;
+    height: 45px;
+    margin-right: 1rem;
+  }
+
+  h3 {
+    font-size: 0.8rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .bottom p {
+    font-size: 0.75rem;
+    color: var(--blue-200);
+  }
+
+  .bottom > div {
+    display: flex;
+    align-content: center;
+  }
+
+  .share {
+    background-color: var(--blue-100);
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    overflow: none;
+    display: flex;
+    align-items: center;
+  }
+  .share img {
+    height: 15px;
+    margin: 0;
+  }
+
+  .date {
+    margin-bottom: 0;
   }
 
   @media (min-width: 768px) {
@@ -107,18 +155,24 @@
         any room feel complete.
       </p>
 
-      <div>
-        <img
-          src="./article-preview-component/avatar-michelle.jpg"
-          alt="Michelle's Avatar" />
-        <h3>Michelle Appleton</h3>
-        <p>28 Jun 2020</p>
+      <div class="bottom">
+        <div>
+          <img
+            src="./article-preview-component/avatar-michelle.jpg"
+            alt="Michelle's Avatar" />
+          <div>
+            <h3>Michelle Appleton</h3>
+            <p class="date">28 Jun 2020</p>
+          </div>
+        </div>
+
+        <button class="share">
+          <img src="./article-preview-component/icon-share.svg" alt="Share" /></button>
       </div>
-      <button> Share </button>
     </div>
   </article>
 
-  <div class="attribution">
+  <div class="attribution" style="margin-top:1rem;">
     Challenge by <a
       href="https://www.frontendmentor.io?ref=challenge"
       target="_blank">Frontend Mentor</a>. Coded by <a href="_">Fang🦁</a>.
