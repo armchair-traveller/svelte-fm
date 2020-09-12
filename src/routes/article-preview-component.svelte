@@ -54,7 +54,7 @@
 
   .content {
     padding: 2rem 2rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 1.2rem;
   }
 
   h2 {
@@ -116,7 +116,14 @@
   }
 
   .date {
-    margin-bottom: 0;
+    margin: 0;
+    line-height: 1rem;
+  }
+
+  .bottom div > div {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
   }
 
   @media (min-width: 768px) {
