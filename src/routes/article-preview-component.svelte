@@ -188,7 +188,7 @@
       grid-template-areas:
         "image details"
         "image bottom";
-      box-shadow: 0 0.5rem 3px 5px rgba(178, 178, 178, 0.1);
+      box-shadow: 1rem 1rem 16px 13px rgba(178, 178, 178, 0.2);
     }
     .drawers {
       grid-area: image;
