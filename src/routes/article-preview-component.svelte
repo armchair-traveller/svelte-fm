@@ -249,7 +249,7 @@
     rel="icon"
     type="image/png"
     sizes="32x32"
-    href="./article-preview-component/favicon-32x32.png" />
+    href="./images/favicon-32x32.png" />
 
   <title>Frontend Mentor | Article preview component</title>
 </svelte:head>
