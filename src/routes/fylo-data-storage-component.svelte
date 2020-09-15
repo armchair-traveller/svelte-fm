@@ -1,24 +1,33 @@
+<script>
+  import Bottom from "../components/fylo-data-storage-component/Bottom.svelte";
+  import Top from "../components/fylo-data-storage-component/Top.svelte";
+</script>
+
 <style>
-  .attribution { font-size: 11px; text-align: center; }
-  .attribution a { color: hsl(228, 45%, 44%); }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
 </style>
 
 <svelte:head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- displays site properly based on user's device -->
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="./images/favicon-32x32.png" />
   <title>Frontend Mentor | Fylo data storage component</title>
 </svelte:head>
 
-  You’ve used 815 GB of your storage
+<Top />
+<Bottom />
 
-  185 GB Left
-  
-  0 GB
-  1000 GB
-  
 <div class="attribution" style="margin-top:1rem;">
   Challenge by <a
     href="https://www.frontendmentor.io?ref=challenge"

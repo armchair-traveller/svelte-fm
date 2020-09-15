@@ -1,0 +1,10 @@
+
+
+<div class="box">
+  You’ve used 815 GB of your storage
+
+  185 GB Left
+  
+  0 GB
+  1000 GB
+</div>
