@@ -22,4 +22,11 @@
     <p>Started 9/10/2020</p>
     <p>time: 6 hours</p>
   </article>
+  <article>
+    <h3>
+      <a href="fylo-data-storage-component">Fylo data storage component</a>
+    </h3>
+    <p>Started 9/15/2020</p>
+    <p>time: 6 hours</p>
+  </article>
 </section>
