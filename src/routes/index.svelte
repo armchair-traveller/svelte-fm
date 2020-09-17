@@ -27,6 +27,6 @@
       <a href="fylo-data-storage-component">Fylo data storage component</a>
     </h3>
     <p>Started 9/15/2020</p>
-    <p>time: 6 hours</p>
+    <p>time: TBD</p>
   </article>
 </section>
