@@ -28,15 +28,17 @@
   <title>Frontend Mentor | Fylo data storage component</title>
 </svelte:head>
 
-<main>
-  <Top />
-  <Bottom />
-</main>
+<div class="container">
+  <main>
+    <Top />
+    <Bottom />
+  </main>
 
-<div class="attribution" style="margin-top:1rem;">
-  Challenge by <a
-    href="https://www.frontendmentor.io?ref=challenge"
-    target="_blank">Frontend Mentor</a>. Coded by <a
-    href="https://github.com/armchair-traveller"
-    target="_blank">Fang🦁</a>.
+  <div class="attribution" style="margin-top:1rem;">
+    Challenge by <a
+      href="https://www.frontendmentor.io?ref=challenge"
+      target="_blank">Frontend Mentor</a>. Coded by <a
+      href="https://github.com/armchair-traveller"
+      target="_blank">Fang🦁</a>.
+  </div>
 </div>
