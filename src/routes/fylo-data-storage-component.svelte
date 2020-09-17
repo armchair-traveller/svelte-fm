@@ -11,6 +11,9 @@
   .attribution a {
     color: hsl(228, 45%, 44%);
   }
+  main {
+    background-image: url("./fylo-data-storage-component/bg-mobile.png");
+  }
 </style>
 
 <svelte:head>
@@ -25,8 +28,10 @@
   <title>Frontend Mentor | Fylo data storage component</title>
 </svelte:head>
 
-<Top />
-<Bottom />
+<main>
+  <Top />
+  <Bottom />
+</main>
 
 <div class="attribution" style="margin-top:1rem;">
   Challenge by <a
