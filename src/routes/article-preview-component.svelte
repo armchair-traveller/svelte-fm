@@ -12,6 +12,8 @@
     --blue-200: hsl(212, 23%, 69%);
     --blue-300: hsl(214, 17%, 51%);
     --blue-400: hsl(217, 19%, 35%);
+  }
+  section {
     background: var(--blue-100);
   }
   * {
