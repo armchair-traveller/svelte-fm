@@ -37,7 +37,7 @@
     <Bottom />
   </div>
 
-  <div class="attribution" style="margin-top:1rem;">
+  <div class="attribution" style="margin-top: 1rem;">
     Challenge by <a
       href="https://www.frontendmentor.io?ref=challenge"
       target="_blank">Frontend Mentor</a>. Coded by <a
