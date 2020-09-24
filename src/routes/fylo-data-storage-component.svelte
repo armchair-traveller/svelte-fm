@@ -4,6 +4,25 @@
 </script>
 
 <style>
+  @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
+  .container {
+    font-family: "Manrope", sans-serif;
+  }
+  :global(p) {
+    font-size: 14px;
+  }
+  /* Style Guide 
+  Widths: mobile 375px desktop 1440px 
+  Usage Bar Gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%)
+  */
+
+  :root {
+    --blue-100: hsl(243, 100%, 93%);
+    --blue-200: hsl(229, 7%, 55%);
+    --blue-300: hsl(228, 56%, 26%);
+    --blue-400: hsl(229, 57%, 11%);
+  }
+
   .attribution {
     font-size: 11px;
     text-align: center;
