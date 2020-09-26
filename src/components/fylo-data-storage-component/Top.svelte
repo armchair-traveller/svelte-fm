@@ -7,6 +7,7 @@
     display: flex;
     flex-flow: column;
     align-items: flex-start;
+    background-color: var(--blue-300);
   }
 </style>
 
