@@ -35,6 +35,8 @@
     width: 375px;
     height: 667px;
     margin: 1rem auto;
+    display: flex;
+    flex-flow: column nowrap;
   }
 </style>
 
