@@ -30,7 +30,7 @@
   .attribution a {
     color: hsl(228, 45%, 44%);
   }
-  .background {
+  .bg {
     background-image: url("/fylo-data-storage-component/bg-mobile.png");
     width: 375px;
     height: 667px;
@@ -53,7 +53,7 @@
 </svelte:head>
 
 <div class="container">
-  <div class="background">
+  <div class="bg">
     <Top />
     <Bottom />
   </div>
