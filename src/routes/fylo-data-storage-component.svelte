@@ -37,6 +37,7 @@
     margin: 1rem auto;
     display: flex;
     flex-flow: column nowrap;
+    justify-content: center;
   }
 </style>
 

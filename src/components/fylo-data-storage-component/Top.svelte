@@ -8,6 +8,10 @@
     flex-flow: column;
     align-items: flex-start;
     background-color: var(--blue-300);
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    border-top-right-radius: 3rem;
   }
 </style>
 
