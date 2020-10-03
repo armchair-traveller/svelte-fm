@@ -12,6 +12,7 @@
     margin: 0 auto;
     border-radius: 0.5rem;
     border-top-right-radius: 3rem;
+    padding: 2rem;
   }
 </style>
 
