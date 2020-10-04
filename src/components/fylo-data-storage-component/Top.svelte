@@ -16,13 +16,17 @@
   }
 
   .logo {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .icons img {
+    background-color: var(--blue-400);
   }
 </style>
 
 <div class="box">
   <img class="logo" src="{assets}/logo.svg" alt="Fylo Logo" />
-  <div>
+  <div class="icons">
     <img src="{assets}/icon-document.svg" alt="Document" />
     <img src="{assets}/icon-folder.svg" alt="Folder" />
     <img src="{assets}/icon-upload.svg" alt="Upload" />
