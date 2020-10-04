@@ -14,10 +14,14 @@
     border-top-right-radius: 3rem;
     padding: 2rem;
   }
+
+  .logo {
+    margin-bottom: 1rem;
+  }
 </style>
 
 <div class="box">
-  <img src="{assets}/logo.svg" alt="Fylo Logo" />
+  <img class="logo" src="{assets}/logo.svg" alt="Fylo Logo" />
   <div>
     <img src="{assets}/icon-document.svg" alt="Document" />
     <img src="{assets}/icon-folder.svg" alt="Folder" />
