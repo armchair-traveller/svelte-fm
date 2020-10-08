@@ -21,6 +21,9 @@
 
   .icons img {
     background-color: var(--blue-400);
+    width: 3rem;
+    height: 3rem;
+    object-fit: none;
   }
 </style>
 
