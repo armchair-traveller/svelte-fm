@@ -24,6 +24,7 @@
     width: 3rem;
     height: 3rem;
     object-fit: none;
+    border-radius: 0.7rem;
   }
 </style>
 
