@@ -1,3 +1,5 @@
+⚠ On hold until `svelte-kit` hits open source beta! Sapper is deprecated.
+
 # [Svelte Front End Mentor](https://svelte-fm.netlify.app/)
 
 All Front End Mentor challenges done in Svelte.
