@@ -1,22 +1,5 @@
 <script>
-  // Reserved for any layout components like Nav. Similar to layout in Gatsby
+  import "./_global.pcss";
 </script>
 
-<style>
-  /* main {
-    position: relative;
-    max-width: 56em;
-    background-color: white;
-    padding: 2em;
-    margin: 0 auto;
-    box-sizing: border-box;
-  } */
-</style>
-
-<svelte:head>
-  <link rel="stylesheet" href="global.css" />
-</svelte:head>
-
-<main>
-  <slot />
-</main>
+<slot />
