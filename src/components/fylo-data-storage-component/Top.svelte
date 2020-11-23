@@ -13,6 +13,7 @@
     border-radius: 0.5rem;
     border-top-right-radius: 3rem;
     padding: 2rem;
+    margin-bottom: 1rem;
   }
 
   .logo {
@@ -20,6 +21,7 @@
   }
 
   .icons img {
+    margin-right: 0.5rem;
     background-color: var(--blue-400);
     width: 3rem;
     height: 3rem;
