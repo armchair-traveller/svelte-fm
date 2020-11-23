@@ -1,5 +1,5 @@
 <script>
-  const assets = "./fylo-data-storage-component";
+  const assets = "/fylo-data-storage-component";
 </script>
 
 <style>

@@ -1,6 +1,6 @@
 <script>
-  import Bottom from "../components/fylo-data-storage-component/Bottom.svelte";
-  import Top from "../components/fylo-data-storage-component/Top.svelte";
+  import Bottom from "../../components/fylo-data-storage-component/Bottom.svelte";
+  import Top from "../../components/fylo-data-storage-component/Top.svelte";
 </script>
 
 <style>
@@ -60,10 +60,10 @@
   </div>
 
   <div class="attribution" style="margin-top: 1rem;">
-    Challenge by <a
+    Challenge by
+    <a
       href="https://www.frontendmentor.io?ref=challenge"
-      target="_blank">Frontend Mentor</a>. Coded by <a
-      href="https://github.com/armchair-traveller"
-      target="_blank">Fang🦁</a>.
+      target="_blank">Frontend Mentor</a>. Coded by
+    <a href="https://github.com/armchair-traveller" target="_blank">Fang🦁</a>.
   </div>
 </div>

@@ -24,7 +24,8 @@
   </article>
   <article>
     <h3>
-      <a href="fylo-data-storage-component">Fylo data storage component</a>
+      <a href="tailwind/fylo-data-storage-component" rel="external">Fylo data
+        storage component</a>
     </h3>
     <p>Started 9/15/2020</p>
     <p>time: TBD</p>
