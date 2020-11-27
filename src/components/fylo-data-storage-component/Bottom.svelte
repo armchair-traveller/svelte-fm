@@ -11,7 +11,11 @@
   .bar {
     width: 100px;
     height: 20px;
-    background-image: linear-gradient(hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+    background-image: linear-gradient(
+      to right,
+      hsl(6, 100%, 80%),
+      hsl(335, 100%, 65%)
+    );
     border: 5px solid var(--blue-200);
     border-radius: 1rem;
   }
