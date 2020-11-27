@@ -19,7 +19,11 @@
 
 <div class="box">
   <p>You’ve used <strong>815 GB</strong> of your storage</p>
-  <div class="bar" />
+  <div class="bar-bg">
+    <div class="bar">
+      <div class="circle" />
+    </div>
+  </div>
   <p>0 GB</p>
   <p>1000 GB</p>
   <h2>185 GB Left</h2>
