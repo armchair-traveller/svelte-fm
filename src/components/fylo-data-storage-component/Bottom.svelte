@@ -9,6 +9,8 @@
   }
 
   .bar {
+    display: flex;
+    flex-flow: row-reverse;
     width: 100px;
     height: 20px;
     background-image: linear-gradient(
@@ -16,8 +18,22 @@
       hsl(6, 100%, 80%),
       hsl(335, 100%, 65%)
     );
-    border: 5px solid var(--blue-200);
+  }
+  .bar-bg,
+  .bar {
     border-radius: 1rem;
+  }
+  .bar-bg {
+    --bar-color: #141f4c;
+    border: 3px solid var(--bar-color);
+    background-color: var(--bar-color);
+  }
+  .circle {
+    margin-right: 3px;
+    width: 20px;
+    height: 20px;
+    background-color: #fdfffe;
+    border-radius: 50%;
   }
 </style>
 
