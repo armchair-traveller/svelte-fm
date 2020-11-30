@@ -8,12 +8,13 @@
     flex-flow: column;
     align-items: flex-start;
     background-color: var(--blue-300);
-    width: 90%;
+    width: 87%;
     margin: 0 auto;
     border-radius: 0.5rem;
     border-top-right-radius: 3rem;
     padding: 2rem;
     margin-bottom: 1rem;
+    height: 200px;
   }
 
   .logo {
