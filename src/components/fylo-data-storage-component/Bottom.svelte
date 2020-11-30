@@ -1,7 +1,7 @@
 <style>
   .box {
     background-color: var(--blue-300);
-    width: 90%;
+    width: 87%;
     margin: 0 auto;
     border-radius: 0.5rem;
     padding: 1.5rem 2rem;
