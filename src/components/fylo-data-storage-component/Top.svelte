@@ -12,7 +12,7 @@
     margin: 0 auto;
     border-radius: 0.5rem;
     border-top-right-radius: 3rem;
-    padding: 2rem;
+    padding: 45px 0 40px 40px;
     margin-bottom: 1rem;
     height: 200px;
   }
