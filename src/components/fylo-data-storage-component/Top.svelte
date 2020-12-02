@@ -22,7 +22,7 @@
   }
 
   .icons img {
-    margin-right: 0.5rem;
+    margin-right: 0.7rem;
     background-color: var(--blue-400);
     width: 3rem;
     height: 3rem;
