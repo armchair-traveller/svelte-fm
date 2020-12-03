@@ -4,21 +4,20 @@
 
 <style>
   .box {
-    display: flex;
-    flex-flow: column;
     align-items: flex-start;
     background-color: var(--blue-300);
     width: 87%;
     margin: 0 auto;
     border-radius: 0.5rem;
     border-top-right-radius: 3rem;
-    padding: 45px 0 40px 40px;
+    padding-left: 40px;
     margin-bottom: 1rem;
     height: 200px;
   }
 
   .logo {
     margin-bottom: 2rem;
+    margin-top: 45px;
   }
 
   .icons img {
