@@ -1,6 +1,6 @@
 <script>
-  import Bottom from "../components/fylo-data-storage-component/Bottom.svelte";
-  import Top from "../components/fylo-data-storage-component/Top.svelte";
+  import Bottom from "$components/fylo-data-storage-component/Bottom.svelte";
+  import Top from "$components/fylo-data-storage-component/Top.svelte";
 </script>
 
 <style>
